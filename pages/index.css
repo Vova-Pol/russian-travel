@@ -1,0 +1,6 @@
+/* normalize.css */
+@import url(../vendor/normalize.css);
+
+.trial {
+  font-size: 35px;
+}
