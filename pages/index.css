@@ -1,6 +1,8 @@
 /* normalize.css */
 @import url(../vendor/normalize.css);
 
-.trial {
-  font-size: 35px;
-}
+/* Page */
+@import url(../blocks/page/page.css);
+
+/* Header */
+@import url(../blocks/header/header.css);
