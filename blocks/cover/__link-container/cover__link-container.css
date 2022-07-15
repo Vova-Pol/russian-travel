@@ -1,0 +1,11 @@
+.cover__link-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+}
+
+.cover__link-container:hover .cover__background {
+  opacity: 0.2;
+}

@@ -2,10 +2,17 @@
   display: flex;
   justify-content: space-between;
   margin: 0 auto 56px auto;
+  padding-top: 28px;
 }
 
 @media screen and (max-width: 1024px) {
   .header {
     margin-bottom: 48px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .header {
+    padding-top: 16px;
   }
 }
