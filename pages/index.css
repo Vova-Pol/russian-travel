@@ -4,8 +4,8 @@
 /* Fonts */
 @import url(../vendor/fonts.css);
 
-/* Padding-Sides */
-@import url(../blocks/padding-sides/padding-sides.css);
+/* Section Sizing */
+@import url(../blocks/section-sizing/section-sizing.css);
 
 /* Page */
 @import url(../blocks/page/page.css);
@@ -30,6 +30,7 @@
 @import url(../blocks/intro/__text/intro__text.css);
 @import url(../blocks/intro/__list/intro__list.css);
 @import url(../blocks/intro/__list-item/intro__list-item.css);
+@import url(../blocks/intro/__list-item/_font-weight_light/intro__list-item_font-weight_light.css);
 
 /* Photo Grid */
 @import url(../blocks/photo-grid/photo-grid.css);

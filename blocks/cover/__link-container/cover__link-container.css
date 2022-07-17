@@ -1,9 +1,9 @@
 .cover__link-container {
-  position: relative;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
   color: #fff;
+  text-decoration: none;
 }
 
 .cover__link-container:hover .cover__background {
