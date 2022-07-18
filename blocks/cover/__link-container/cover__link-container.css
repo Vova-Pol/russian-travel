@@ -6,6 +6,6 @@
   text-decoration: none;
 }
 
-.cover__link-container:hover .cover__background {
-  opacity: 0.2;
+.cover__link-container:hover .cover__overlay {
+  opacity: 0.8;
 }
