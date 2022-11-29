@@ -23,7 +23,7 @@
 ##### Доступ
 
 Сайт доступен по ссылке:
-https://vova-pol.github.io/russian-travel-vova-pol/
+[https://vova-pol.github.io/russian-travel-vova-pol/](https://vova-pol.github.io/russian-travel/)
 
 Проект на GitHub:
 https://github.com/Vova-Pol/russian-travel-vova-pol.git
