@@ -23,7 +23,7 @@
         ├── __element1
         ├── __element2
         └── __element3
-            ├── block3__element3.css      
+            └── block3__element3.css      
 </pre>
 
 ### Как открыть проект
